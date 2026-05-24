@@ -124,4 +124,4 @@ Generates high-performance financial statement reports replicating legacy Crysta
 
 ## 📄 License
 
-This portfolio showcase and project walkthrough documentation are licensed under the MIT License - see the [LICENSE](file:///c:/Users/Sarim/Desktop/Project%20Development/Loyalty-Points-Management-System-2.0/LICENSE) file for details.
+This portfolio showcase and project walkthrough documentation are licensed under the MIT License -
