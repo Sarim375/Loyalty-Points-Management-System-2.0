@@ -124,4 +124,4 @@ Generates high-performance financial statement reports replicating legacy Crysta
 
 ## 📄 License
 
-This portfolio showcase and project walkthrough documentation are licensed under the MIT License -
+This portfolio showcase and project walkthrough documentation.
