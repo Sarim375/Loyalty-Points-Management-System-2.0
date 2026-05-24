@@ -118,7 +118,7 @@ Generates high-performance financial statement reports replicating legacy Crysta
 | **Business Logic** | C# Services & Interfaces | Transaction parsing, file format validations, encryption hooks |
 | **PDF Reporting** | QuestPDF | Fluent-API generation for PDF reports |
 | **Storage & Database** | Entity Framework Core, SQL Server | Relational storage, bulk database inserts, audit logs |
-| **Security Suite** | AES-256, SHA-256 Cryptography | Cardholder encryption, admin authentication |
+| **Security Suite** | AES-256, SHA-256, MD-5 Cryptography | Cardholder encryption, admin authentication |
 
 ---
 
