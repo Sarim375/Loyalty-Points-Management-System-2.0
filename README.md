@@ -90,7 +90,7 @@ flowchart LR
 
 ## Scale
 
-- Three .NET projects, 17 portal screens, roughly 19,000 lines of hand-written C#, Razor and SQL.
+- Three .NET projects, more than 15 portal screens and close to 20,000 lines of hand-written C#, Razor and SQL.
 
 ## Skills Demonstrated
 
