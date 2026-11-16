@@ -55,7 +55,7 @@ The original system was built on ASP.NET Web Forms with legacy web services. I w
 |---|---|
 | Runtime | .NET 10, C# |
 | Operations portal | ASP.NET Core Razor Pages, cookie authentication, server sessions |
-| Services | SOAP services on ASP.NET Core (SoapCore), WCF client for the card system |
+| Services | REST and SOAP services on ASP.NET Core (SoapCore), WCF client for the card system |
 | Database | Microsoft SQL Server, stored-procedure based data access (no ORM) |
 | Exports | Excel and PDF generation libraries, CSV |
 | Logging | Serilog with rolling files |
@@ -94,7 +94,7 @@ flowchart LR
 
 ## Skills Demonstrated
 
-`C#` · `.NET 10` · `ASP.NET Core Razor Pages` · `SOAP / SoapCore / WCF` · `Legacy migration` · `SQL Server` · `Stored procedures` · `Transactions` · `File processing and validation` · `Authentication and authorization` · `Secure password flows` · `Reporting and export` · `Serilog` · `Loyalty and payments domain`
+`C#` · `.NET 10` · `ASP.NET Core Razor Pages` · `SOAP / SoapCore / WCF` · `REST APIs` · `Legacy migration` · `SQL Server` · `Stored procedures` · `Transactions` · `File processing and validation` · `Authentication and authorization` · `Secure password flows` · `Reporting and export` · `Serilog` · `Loyalty and payments domain`
 
 ---
 
